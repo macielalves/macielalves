@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning to work!!
-- 👨‍💻 currently programming in python!!
-
 <!--
 **macielalves/macielalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <div>
+    <h1>Hi there 👋</h1>
+    <p>🌱 I’m currently learning to work!!</p>
+    <p>👨‍💻 currently programming in python!!</p>
+    <p>🌌 Currently learning react and next!!</p>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api?username=macielalves&show_icons=true&theme=transparent" width="70%"/>
 </div>
