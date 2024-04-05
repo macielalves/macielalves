@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <div>
-    <h1>Hi there 👋</h1>
-    <p>🌱 I’m currently learning to work!!</p>
-    <p>👨‍💻 currently programming in python!!</p>
-    <p>🌌 Currently learning react and next!!</p>
-  </div>
+  <section>
+<!--     <h1>Hi, Coder?</h1> -->
+  </section>
   <img src="https://github-readme-stats.vercel.app/api?username=macielalves&show_icons=true&theme=transparent" width="70%"/>
 </div>
