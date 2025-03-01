@@ -38,7 +38,7 @@ Você pode me encontrar nas redes sociais e em meu site pessoal. Se precisar de 
 ## Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macielalves&show_icons=true&theme=transparent" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=macielalves&show_icons=true&theme=transparent&rank_icon=github" width="70%"/>
 </div>
 
 
