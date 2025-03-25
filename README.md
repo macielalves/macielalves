@@ -7,7 +7,7 @@ Olá, sou **Maciel Alves**, um desenvolvedor Full Stack.
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por programação, com foco em soluções inovadoras e eficientes. Tenho experiência no desenvolvimento de aplicações web e soluções utilizando Python e outras tecnologias modernas. Sempre buscando aprender e melhorar minhas habilidades.
+Sou um desenvolvedor experimentalista, mas com foco em soluções inovadoras e eficientes. Tenho experiência no desenvolvimento de aplicações web e soluções utilizando Python e outras tecnologias modernas. Sempre buscando aprender e melhorar minhas habilidades.
 
 ## Repositórios
 
@@ -33,7 +33,13 @@ Você pode me encontrar nas redes sociais e em meu site pessoal. Se precisar de 
 - Python
 - HTML/CSS
 - JavaScript
-- C++
+- C/C++
+- Java
+- PHP
+- Dart
+- SQL
+
+Preferência: Python
 
 ## Status
 
